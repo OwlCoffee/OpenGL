@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  ClassView.cpp
+  FileView.cpp
+  ImageLoad.cpp
+  MainFrm.cpp
+  OpenGL_Test.cpp
+  OpenGL_TestDoc.cpp
+  OpenGL_TestView.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  Sphere.cpp
+  ViewTree.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 905 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  OpenGL_Test.vcxproj -> C:\File\Dev\Graphics\OpenGL\OpenGL_Test\Release\OpenGL_Test.exe
